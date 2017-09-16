@@ -3,6 +3,8 @@
 Clone the repo, install create-react-native 
 You can use Yarn or npm commands
 
+Use your FB and Google App IDs in services/SocialLogin.js
+
 Once you clone this repo if you want to use yarn then hit yarn install && yarn start
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
