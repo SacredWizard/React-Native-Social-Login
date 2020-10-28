@@ -1,4 +1,4 @@
-# React Native starter for social Login
+# React Native starter for social Login (Some dependencies are Outdated, it may still work 😎)
 
 Clone the repo, install create-react-native 
 You can use Yarn or npm commands
